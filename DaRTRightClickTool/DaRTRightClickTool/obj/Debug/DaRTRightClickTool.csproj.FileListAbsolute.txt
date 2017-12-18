@@ -1,0 +1,10 @@
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\bin\Debug\DaRTRightClickTool.exe.config
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\bin\Debug\DaRTRightClickTool.exe
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\bin\Debug\DaRTRightClickTool.pdb
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\obj\Debug\DaRTRightClickTool.csprojResolveAssemblyReference.cache
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\obj\Debug\DaRTRightClickTool.Form1.resources
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\obj\Debug\DaRTRightClickTool.Properties.Resources.resources
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\obj\Debug\DaRTRightClickTool.csproj.GenerateResource.Cache
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\obj\Debug\DaRTRightClickTool.csproj.CoreCompileInputs.cache
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\obj\Debug\DaRTRightClickTool.exe
+C:\Users\maximeb\OneDrive\Programs\MB_RightClickTooTZ\DaRT_SCCMRightClickTool\DaRTRightClickTool\DaRTRightClickTool\obj\Debug\DaRTRightClickTool.pdb
